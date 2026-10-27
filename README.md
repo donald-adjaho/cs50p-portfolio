@@ -4,7 +4,7 @@ This repository contains my complete portfolio of solutions and projects complet
 
 ## 📌 Note to Recruiters
 **Timeline of Work:** 
-These exercises were originally completed, tested, and submitted between **[Start Month, Year]** and **[End Month, Year]** via the official CS50 `me50` submission system. 
+These exercises were originally completed, tested, and submitted between **april 2025** and **june 2025** via the official CS50 `me50` submission system. 
 This repository is a consolidated archive of my work, extracted into a clean folder structure for portfolio presentation purposes. The code reflects the skills I acquired during that period.
 
 ## 🧠 Skills & Concepts Mastered
